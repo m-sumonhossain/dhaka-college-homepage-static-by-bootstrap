@@ -1,0 +1,140 @@
+.logo{
+    background: burlywood;
+    
+}
+.slogan{
+    background: burlywood;
+    font-style: bold;
+    text-align: center;
+    color: green;
+    font-size: 40pt;
+    height: 120px;
+    
+}
+.row{
+    background: bisque;
+}
+.latest{
+    
+    color: blueviolet;
+}
+.navbc{
+    background:  burlywood;
+    
+
+
+
+}
+
+.welcome{
+    
+    height: 200px;
+    background:  burlywood;
+    color: burlywood
+}
+.pmc{
+    
+    
+    
+    color:peru;
+
+}
+.slide{
+    height: 520px;
+}
+.sld {
+    height: 500px;
+
+}
+
+
+
+
+.mainbox{
+    height: 300px;
+    background: peachpuff;
+    color: peachpuff
+    border-radius: 5px;
+    box-shadow: 0 0 10px #fff, inset 0 0 10px orange;
+}
+
+.mainbox .inpfld{
+    width: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+.mainbox .inpfld .inp{
+    padding: 10px;
+    width: 280px;
+    font-size: 12pt;
+    margin-bottom: 25px;
+    border: 1px solid #999; 
+}
+.mainbox .inpfld .inp:focus{
+    box-shadow: 0 0 5px blue;
+}
+.mainbox .inpfld .btn{
+    padding: 10px;
+    width: 280px;
+    font-size: 12pt;
+    border: 1px solid darkorange;
+    background: orange;
+    color: darkblue;
+    cursor: pointer;
+}
+.mainbox .inpfld .btn:hover{
+    background: darkorange;
+    border: 1px solid orange;
+    color: #000;
+}
+.std{
+     text-align: center;
+     font-size: 20pt;
+    
+    color: aqua;
+    background:purple;
+    
+}
+
+.marquebox{
+    height: 300px;
+    background:peachpuff;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #fff, inset 0 0 10px orange;
+    font-family:sans-serif;
+    font-size: 20pt;
+    text-align: center;
+    color: blueviolet;
+}
+
+.news{
+     text-align: center;
+     font-size: 20pt;
+     background: purple;
+    color: cyan;
+    
+}
+
+.pad{
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.contact{
+    height: 210px;
+    background:peachpuff;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #fff, inset 0 0 10px orange;
+    font-family:sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    color: blueviolet;
+}
+.footer{
+    background: coral;
+    text-align: center;
+    height: 50px;
+    font-size: 13pt;
+    color: darkblue;
+}
